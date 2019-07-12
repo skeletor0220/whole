@@ -1,0 +1,21 @@
+p {
+    font-size: 20pt;
+    text-align: center
+}
+
+body {
+    background: url(https://wallpaperplay.com/walls/full/2/f/9/181524.jpg);
+    background-size: cover;
+}
+#one {
+    color: red;
+}
+#one2 {
+    color: #e22727;
+}
+#a2 {
+    color: red;
+}
+#b2 {
+    color: #e22727;
+}

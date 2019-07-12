@@ -1,0 +1,19 @@
+.a11 {
+    border: 2px solid red;
+}
+
+ul li a2 {
+    border: 2px double blue;
+}
+h3 + h4 {
+    border: 2px dashed purple;
+}
+
+* {
+    font-family: "Arial";
+    font-size: 12;
+    font-weight: 1;
+    line-height: 1;
+    text-align: center;
+    text-decoration : line-through;
+}
